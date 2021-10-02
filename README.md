@@ -1,8 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=2w1nd&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hello World 👋
-目前为在校大学生，主要从事后端开发，使用编程语言主要为java，也了解go，c++<br/>
-最近在学习os，csapp，微服务相关知识
+- 🔭目前为在校大学生，主要从事后端开发，使用编程语言主要为java，也了解go，c++<br/>
+- 🌱最近在学习os，csapp，微服务相关知识
+- 📫个人邮箱：w1nd2@foxmail.com
 <!--
 **2w1nd/2w1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
