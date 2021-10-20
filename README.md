@@ -1,4 +1,3 @@
-
 ## Hello World 👋
 - 🔭目前为在校大学生，主要从事后端开发，使用编程语言主要为java，也了解go，c++<br/>
 - 🌱最近在学习os，csapp，微服务相关知识
@@ -6,7 +5,12 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=2w1nd&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2w1nd&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<table>
+  <tr>
+    <td><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=2w1nd&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /></td>
+    <td><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2w1nd&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></td>
+  </tr>
+</table>
 
 <!--
 **2w1nd/2w1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
