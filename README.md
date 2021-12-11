@@ -1,5 +1,7 @@
 ## Hello World 👋
-- 🧐 目前为在校大学生，主要从事后端开发，使用编程语言主要为java，也了解go，c++<br/>
+- 🧐 目前为在校大学生，主要从事后端开发。
+- 🚀 使用编程语言：![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
+- ✨ 常用工具： ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-black?logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-black?logo=git)
 - 🌱 最近在学习mit 6.s081
 - 🤗 所有笔记会整理到该仓库 https://github.com/2w1nd/note
 - 📫 个人邮箱：w1nd2@foxmail.com
