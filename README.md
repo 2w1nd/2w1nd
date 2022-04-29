@@ -4,6 +4,7 @@
 - ✨ Tools： ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-black?logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-black?logo=git)
 - 📫 Email：w1nd214748@gmail.com
 
+![](https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/2bit-sprite/demo.gif)
 ## 今年汇总 ✨
 
 <table>
